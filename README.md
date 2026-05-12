@@ -1,4 +1,4 @@
-# CP476 To-Do List Web Application
+# To-Do List Web Application
 
 A full-stack To-Do List web application to help users manage tasks and deadlines in an organized and simple way.
 
@@ -17,13 +17,13 @@ A full-stack To-Do List web application to help users manage tasks and deadlines
 
 1. Clone the repository
   ```{bash}
-  git clone https://github.com/Suvethan19/CP476-todo-list-app.git
-  cd CP476-todo-list-app
+  git clone https://github.com/marcniven/todo-list-app.git
+  cd todo-list-app
   ```
 
 2. Install dependencies
   ```{bash}
-  cd CP476-todo-list-app
+  cd todo-list-app
   npm install
   ```
 
@@ -51,4 +51,8 @@ A full-stack To-Do List web application to help users manage tasks and deadlines
   ```
 
   Open your browser and go to:  http://localhost:3000
-  
+
+  ## Team Members
+- Suvethan Yogathasan
+- Maathusan Raveendran
+- Marc Niven Kumar
