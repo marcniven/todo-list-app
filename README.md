@@ -51,8 +51,3 @@ A full-stack To-Do List web application to help users manage tasks and deadlines
   ```
 
   Open your browser and go to:  http://localhost:3000
-
-  ## Team Members
-- Suvethan Yogathasan
-- Maathusan Raveendran
-- Marc Niven Kumar
