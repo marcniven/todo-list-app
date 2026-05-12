@@ -1,13 +1,6 @@
 # CP476 To-Do List Web Application
 
-## Project Overview
-This project is a full-stack To-Do List web application developed for CP476 – Internet Computing.
-The goal of the application is to help users manage tasks and deadlines in an organized and simple way.
-
-## Team Members
-- Suvethan Yogathasan
-- Maathusan Raveendran
-- Marc Niven Kumar
+A full-stack To-Do List web application to help users manage tasks and deadlines in an organized and simple way.
 
 ## Core Features
 - Create, edit, and delete tasks
@@ -15,24 +8,10 @@ The goal of the application is to help users manage tasks and deadlines in an or
 - View tasks by due date
 - Highlight task priority
 
-## Technologies (Planned)
+## Technologies
 - HTML, CSS, JavaScript
-- Node.js or PHP
-- Relational Database (MySQL)
-
-## Project Structure
-This repository will contain:
-- Front-end code
-- Back-end server code
-- Database scripts
-- Documentation and reports
-
-## Status
-Project currently in **Milestone 03 – Full-Stack Integration, Testing Report, Final Demo & Presentation**
-
-## Tools Needed
-1. Node.js
-2. MySQL Server and Workbench
+- Node.js
+- MySQL
 
 ## Setup
 
@@ -73,8 +52,3 @@ Project currently in **Milestone 03 – Full-Stack Integration, Testing Report, 
 
   Open your browser and go to:  http://localhost:3000
   
-## Team Member Contributions Summary
-Deliverables:
-- Marc, Maathusan: Front-end development and UI workflow
-- Marc: Database design, Fullstack Integration
-- Suvethan: Back-end setup, server configuration, GitHub management, Kanban board updates, and documentation
